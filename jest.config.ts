@@ -9,5 +9,4 @@ export default {
   transform: {
     '.+\\.ts$': 'ts-jest'
   },
-  watchPathIgnorePatterns: ['globalConfig']
 }
